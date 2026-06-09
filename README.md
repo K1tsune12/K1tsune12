@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Kitsune 🦊</h1>
 
-<p align="center">
-  Steam client modder — Millennium plugins & themes.
-</p>
-
 ## 👾 Pacman
 <!--- Source: https://github.com/abozanona/pacman-contribution-graph -->
 <picture>
